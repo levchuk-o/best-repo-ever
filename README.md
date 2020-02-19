@@ -6,7 +6,8 @@ public class Human{
 
     public Human(){}
 
-    private static loader(){
-        
+
+    public static countAge(){
+        age = 5;
     }
 }
