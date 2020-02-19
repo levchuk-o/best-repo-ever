@@ -6,6 +6,7 @@ public class Human{
 
     public Human(){}
 
+
     public static countAge(){
         age = 5;
     }
