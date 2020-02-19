@@ -5,4 +5,8 @@ public class Human{
     private Integer age {get; set;}
 
     public Human(){}
+
+    public static countAge(){
+        age = 5;
+    }
 }
